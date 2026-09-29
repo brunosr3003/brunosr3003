@@ -15,8 +15,8 @@ I care about the unglamorous parts that keep things running: row-level security,
 
 #### Toolbox
 
-**Languages:** TypeScript, Rust, Python, Go, C#, SQL
-**Backend & data:** Node.js (Fastify, Express), PostgreSQL, SQLite, BigQuery, Docker, S3/MinIO
-**Also:** Linux servers and deployment, API integrations (banking, payments, CRMs), LLM tooling and MCP
+- **Languages:** TypeScript, Rust, Python, Go, C#, SQL
+- **Backend & data:** Node.js (Fastify, Express), PostgreSQL, SQLite, BigQuery, Docker, S3/MinIO
+- **Also:** Linux servers and deployment, API integrations (banking, payments, CRMs), LLM tooling and MCP
 
 🎓 B.S. in Information Systems, PUC Minas
